@@ -1,0 +1,7 @@
+C:\Users\Evelyn\code\My-first-app\MyFirstMVCApp\bin\MyFirstMVCApp.dll
+C:\Users\Evelyn\code\My-first-app\MyFirstMVCApp\bin\MyFirstMVCApp.pdb
+C:\Users\Evelyn\code\My-first-app\MyFirstMVCApp\bin\EntityFramework.dll
+C:\Users\Evelyn\code\My-first-app\MyFirstMVCApp\bin\EntityFramework.xml
+C:\Users\Evelyn\code\My-first-app\MyFirstMVCApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Evelyn\code\My-first-app\MyFirstMVCApp\obj\Debug\MyFirstMVCApp.dll
+C:\Users\Evelyn\code\My-first-app\MyFirstMVCApp\obj\Debug\MyFirstMVCApp.pdb
