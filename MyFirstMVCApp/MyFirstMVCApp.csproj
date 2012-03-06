@@ -63,6 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\HelloworldController.cs" />
+    <Compile Include="Controllers\TodolistController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -138,6 +139,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\helloworld\index.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\todolist\index.cshtml" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
